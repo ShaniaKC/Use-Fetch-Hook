@@ -2,8 +2,8 @@
  A custom react hook that allows you to minimize repition in a React project that uses a lot of fetch calls with authentication
 
 ## How to add this hook to your project
-    - copy the code in the hook.js file
-    - create a file in your application named useFetch (You can also add the code to your custom hooks file)
+- copy the code in the hook.js file
+- create a file in your application named useFetch (You can also add the code to your custom hooks file)
 
 ## Example use case : 
     ``

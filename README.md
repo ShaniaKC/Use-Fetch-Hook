@@ -9,7 +9,7 @@
     ``
     const NewPatientForm = () => {
     
-    const { post, controller } = useFetch( `/patients` );
+    const { post, controller } = useFetch( `<your url here>` );
     const [ input, setInput ] = useState( initialState )
     
     useEffect(() => {

@@ -5,6 +5,7 @@
 
 ## How to add this hook to your project
 - copy the code in the hook.js file
+<<<<<<< Updated upstream
 - create a file in your application named useFetch.js (You can also add the code to your custom hooks file)
 
 ## Example use case : 
